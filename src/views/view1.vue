@@ -6,9 +6,7 @@
 </template>
  
 <script type="text/javascript">
-    export default {
-  name: 'view1'
-    }
+
 </script>
  
 <style>
